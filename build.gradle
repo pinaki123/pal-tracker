@@ -17,6 +17,7 @@ dependencies {
     compile("org.springframework:spring-webmvc")
     compile("org.springframework.boot:spring-boot-starter")
     compile("org.springframework.boot:spring-boot-starter-tomcat")
+    compile("com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.9.1")
     testCompile("org.springframework.boot:spring-boot-starter-test")
 }
 
