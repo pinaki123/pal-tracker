@@ -5,4 +5,3 @@ applications:
   host: pmuk-pal-tracker-review
   services:
   - tracker-database
-  
